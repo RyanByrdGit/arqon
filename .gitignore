@@ -1,0 +1,7 @@
+*.log
+*.tsbuildinfo
+.vercel
+.env*
+/build/
+/.next/
+/out/

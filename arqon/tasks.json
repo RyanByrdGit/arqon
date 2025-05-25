@@ -1,0 +1,5 @@
+[
+  { "task_type": "code_generation", "instructions": "print('Hello World')" },
+  { "task_type": "data_analysis", "instructions": "Analyze dataset" },
+  { "task_type": "unknown", "instructions": "something" }
+]
